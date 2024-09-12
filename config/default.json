@@ -1,0 +1,22 @@
+{
+  "port": "3334",
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_port": 5432,
+  "db_password": "5432",
+  "db_name": "freelancerhub",
+  "crypt_password": "MySecretCryptoPassword",
+  "iv": "herps123",
+  "tokenKey": "MyVeryVerySecretKey",
+  "tokenTime": "86400000",
+  "access_key": "MyAccessTokenSecretKey",
+  "refresh_key": "MyRefreshTokenSecretKey",
+  "access_time": "15m",
+  "refresh_time": "30d",
+  "refresh_time_ms": "1296000000",
+  "smtp_password": "vhwkkqkcpyqospag",
+  "smtp_host": "smpt.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "mushtariyotaxonova26@gmail.com",
+  "api_url": "http://localhost"
+}
